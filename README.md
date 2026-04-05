@@ -23,12 +23,12 @@ This repository contains solutions to Java array practice problems from Level 1 
 ## Files
 
 All programs are stored in a single directory:
-- VotingCheck.java
-- NumberCheck.java
-- MultiplicationTable.java
-- EmployeeBonus.java
-- Friends.java
-- DigitFrequency.java
+- VotingCheck_level1.java
+- NumberCheck_level1.java
+- MultiplicationTable_level1.java
+- EmployeeBonus_level2.java
+- Friends_level2.java
+- DigitFrequency_level3.java
 
 ---
 
