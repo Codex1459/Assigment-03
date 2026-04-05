@@ -32,7 +32,7 @@ All programs are stored in a single directory:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Java
 - Arrays
 - Loops
